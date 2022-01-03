@@ -47,7 +47,7 @@ Users should be able to:
 
 ## How to run the project
 
-Clone the repository using "git clone". After that, go to the project folder and use the command "npm install" or "yarn install" to install the dependencies (run this command on mobile and server folder).
+Clone the repository using "git clone". After that, go to the project folder and use the command "npm install" or "yarn install" to install the dependencies.
 
 Create a Firebase project and download the json file as instructed on the page.
 
